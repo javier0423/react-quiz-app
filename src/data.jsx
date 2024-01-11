@@ -1,4 +1,4 @@
-import Ciencia from './assets/ciencia.png';
+import Ciencia from './assets/ciencia-02be047a.png';
 import Deportes from './assets/deportes.png';
 import Filosofia from './assets/filosofía.png';
 import Geografia from './assets/geografía.png';
